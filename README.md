@@ -1,2 +1,2 @@
 # hello-world
-This is my learning phase.
+Hi I am Sajendra Manandhar and I am learning Github.
